@@ -1,0 +1,2140 @@
+{
+  "originalImages": [
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд04_image18.jpeg",
+      "file": "assets/scenes/scene-1.webp",
+      "kind": "additional-scene",
+      "sha256": "d5ef84e5acffc90045532a0b94f2eaa1c64f94571f3c62b2a0f7e3d5f92459df"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд03_image15.jpg",
+      "file": "assets/scenes/scene-2.webp",
+      "kind": "additional-scene",
+      "sha256": "8ac81a0eb132b048ece06d8b561e4ea8da155fbad4eb1bd76fe8ae5d14c945ad"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд20_image5.jpg",
+      "file": "assets/scenes/scene-3.webp",
+      "kind": "additional-scene",
+      "sha256": "154b050f3f0f3209a1b41ef70b1d62c6611b4c0ad18fbd43b24a3533d24b41d6"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд03_image13.jpg",
+      "file": "assets/scenes/scene-4.webp",
+      "kind": "additional-scene",
+      "sha256": "7e361a0c543e2f9dd53a772a6d61985791111e842c6ed64da2ad24e3e1d6d457"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд03_image7.jpg",
+      "file": "assets/scenes/scene-5.webp",
+      "kind": "additional-scene",
+      "sha256": "d6bb39be854c7f93f8f7e6caf776aead8f10e2eb15cd198cea381f5a295d312d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд03_image11.jpg",
+      "file": "assets/scenes/scene-6.webp",
+      "kind": "additional-scene",
+      "sha256": "00eaa2ebe582dc149506493513c71b9c3df76f1499dba9a36f0599c69f446c56"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд03_image16.jpg",
+      "file": "assets/scenes/scene-7.webp",
+      "kind": "additional-scene",
+      "sha256": "dabc9fe875c37b87417adf5c2479655d3e9d758dbae994365cc29576bfd7d74a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/4_Miro/Демонстрация/Иллюстрации/слайд25_image36.jpg",
+      "file": "assets/scenes/scene-8.webp",
+      "kind": "additional-scene",
+      "sha256": "7e15372feb97956ec39ecabd2fb916f9af01df7eab790ff3b814fe8ff0601add"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/01_автобус.png",
+      "file": "assets/cards/001.png",
+      "kind": "source-card",
+      "sha256": "fd739665be661a044c8af94d3b65a77b8da086e5bb5eb4d787227ec465a0653c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/01_автобус.png",
+      "file": "assets/icons/001.png",
+      "kind": "source-icon",
+      "sha256": "564c860f677bba398de2ef1063076013c5b97c480e2c2c55a45a0a9e4659b438"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/02_троллейбус.png",
+      "file": "assets/cards/002.png",
+      "kind": "source-card",
+      "sha256": "a37deea4aa99c9dba3e5438e2adbe28c2b046382b6a66f40eb0837a0663e9003"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/02_троллейбус.png",
+      "file": "assets/icons/002.png",
+      "kind": "source-icon",
+      "sha256": "176e1780c5b8198c225df4550e03806c0b49c418483c0e2b5bed391e324e3236"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/03_трамвай.png",
+      "file": "assets/cards/003.png",
+      "kind": "source-card",
+      "sha256": "fde965ae114cbc34be1bb754e3b799cc7278d43953676e3386fe29c57202ed7b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/03_трамвай.png",
+      "file": "assets/icons/003.png",
+      "kind": "source-icon",
+      "sha256": "ef14fe84b8ceaa3ebe2030f647ebea51f6dd04f9cfed909fa2866cfcda76055f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/04_такси.png",
+      "file": "assets/cards/004.png",
+      "kind": "source-card",
+      "sha256": "243e3ea02a7a3b6ebcb3f765cfd77605f70b639d199d0bb3a5b79100bd797a41"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/04_такси.png",
+      "file": "assets/icons/004.png",
+      "kind": "source-icon",
+      "sha256": "44eb06910ab0ac097ce21a7a274c942988d3b8f13d04e0b0ada96c09d6c49dd6"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/05_метро.png",
+      "file": "assets/cards/005.png",
+      "kind": "source-card",
+      "sha256": "054b002f24f3fcf2670d37260bdb3bbd32d6e8dfc61f3751db2ff5674ff73472"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/05_метро.png",
+      "file": "assets/icons/005.png",
+      "kind": "source-icon",
+      "sha256": "9f8dd0915655fbc0188d06af622fcaf7332e8cd8e55be3b83690063c86192e6b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/06_станция_метро.png",
+      "file": "assets/cards/006.png",
+      "kind": "source-card",
+      "sha256": "a9c8e3d53f50ad26379d8a631f1227355ff5259d89f482c87e33129a2c59807f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/06_станция_метро.png",
+      "file": "assets/icons/006.png",
+      "kind": "source-icon",
+      "sha256": "3cf4c5d5e3ae6114b2b14f698c445e4313deaff64ec375f07f80c807bc0830b3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/07_остановка.png",
+      "file": "assets/cards/007.png",
+      "kind": "source-card",
+      "sha256": "80c9d16f41a5c7824f1846e767edefd4a181364258baed25b7707dae956f56cb"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/07_остановка.png",
+      "file": "assets/icons/007.png",
+      "kind": "source-icon",
+      "sha256": "f6499a25fb9f76517c5f1c2bf5450b77eaf3a3da3a195607c995661b6d065dae"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/08_вокзал.png",
+      "file": "assets/cards/008.png",
+      "kind": "source-card",
+      "sha256": "deccc6fe61b71152d1916285667eafd66e81067ad871acc9f545a4f075dbf2a2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/08_вокзал.png",
+      "file": "assets/icons/008.png",
+      "kind": "source-icon",
+      "sha256": "d74c81a37057087cee4262eac2ad4e51e6f1b9c8aa8e2762872371e8e83acc22"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/09_пересадка.png",
+      "file": "assets/cards/009.png",
+      "kind": "source-card",
+      "sha256": "e65dd22e6d0d7992b09d5f7a63945750f8865e7d315cb89daef69e5db0975d02"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/09_пересадка.png",
+      "file": "assets/icons/009.png",
+      "kind": "source-icon",
+      "sha256": "a6540b322080b38af9e66751f293893c08994595bc1339a978791560ecf7b49f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/10_прямое_сообщение.png",
+      "file": "assets/cards/010.png",
+      "kind": "source-card",
+      "sha256": "1302799ff9748a1b680053af7a07b076f798d3789928f16e1afa29ae00b9d061"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/10_прямое_сообщение.png",
+      "file": "assets/icons/010.png",
+      "kind": "source-icon",
+      "sha256": "83d98033a95beccb234308ea0e9098cd10b2913de53b4da3c64cc5630bece6d6"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/11_вид_транспорта.png",
+      "file": "assets/cards/011.png",
+      "kind": "source-card",
+      "sha256": "c3fae3ce037e80ac98b73d52ea45ec13332b90b2b1a05b11b85c6b288ccbb656"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/11_вид_транспорта.png",
+      "file": "assets/icons/011.png",
+      "kind": "source-icon",
+      "sha256": "dcb4072c8e7a9508040336ed949d569b09d41feacbf8068d0698baeb0838c30d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/12_пробка.png",
+      "file": "assets/cards/012.png",
+      "kind": "source-card",
+      "sha256": "939227ffba036bbde21aecd5bedea51cffc2a5475ac5429996991e8de0e93c78"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/12_пробка.png",
+      "file": "assets/icons/012.png",
+      "kind": "source-icon",
+      "sha256": "18e34a6de9c661323733ab0a85d7da59f55e5878828918976fb7b46f0f37bba3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/13_пассажир.png",
+      "file": "assets/cards/013.png",
+      "kind": "source-card",
+      "sha256": "fd2ee0d0813a33cfc7f92e9ff748fbe695eb598fa063aff20f4da905d1582324"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/13_пассажир.png",
+      "file": "assets/icons/013.png",
+      "kind": "source-icon",
+      "sha256": "f0df1206f54ad943365b388460f2a34c1cfed1b1a486029415a0d6a73141b057"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/14_водитель.png",
+      "file": "assets/cards/014.png",
+      "kind": "source-card",
+      "sha256": "f2501a55fbde07bfa72b25b9c6002acda62259edef27acecbd6376390a150f6f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/14_водитель.png",
+      "file": "assets/icons/014.png",
+      "kind": "source-icon",
+      "sha256": "f9ff8bd571c4eaffb13f5f10c022f9228880274780b4487fd5bb77f8ce108aa1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/15_таксист.png",
+      "file": "assets/cards/015.png",
+      "kind": "source-card",
+      "sha256": "3ba5f76341ef4092067b299b6fcbb80835d2d40d2cd074f3dcd4c451d8c9a31b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/15_таксист.png",
+      "file": "assets/icons/015.png",
+      "kind": "source-icon",
+      "sha256": "5b859fad8742a9fff482df49ce426c7e66f0ebb5ae5d1db55e09c60dab60f268"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/16_час_пик.png",
+      "file": "assets/cards/016.png",
+      "kind": "source-card",
+      "sha256": "7c0b9595327c4792abaf2368dfe2945262ad4cd07448afcd92d8a936fd10cd1d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/16_час_пик.png",
+      "file": "assets/icons/016.png",
+      "kind": "source-icon",
+      "sha256": "62395805bd4c0bb0ff5a98e4b0d1d6340e499477c6f9178a3fcbaa489a59e317"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/17_пользоваться_чем.png",
+      "file": "assets/cards/017.png",
+      "kind": "source-card",
+      "sha256": "97ed9874bed0614952cbf2674530bb84abe607198129602ddce01875524a586a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/17_пользоваться_чем.png",
+      "file": "assets/icons/017.png",
+      "kind": "source-icon",
+      "sha256": "b4351f139180602dd9fb677f4982ad81990d7a166fc7f6c120d7b614c70986d0"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/18_прохожий.png",
+      "file": "assets/cards/018.png",
+      "kind": "source-card",
+      "sha256": "9fbca3686153773c03ba0dcb45237c6f12426354c2251b562a1f4ed0e0c44a4d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/18_прохожий.png",
+      "file": "assets/icons/018.png",
+      "kind": "source-icon",
+      "sha256": "8f18f69a09c3e8eb4b4984ce0cb090c3dc432ef75a7e60a6f306c11af22b464b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/19_житель.png",
+      "file": "assets/cards/019.png",
+      "kind": "source-card",
+      "sha256": "9e6f8ffde77e6d7eb1c582cd841c53c51badc66f39bd376a652fba53700b09bd"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/19_житель.png",
+      "file": "assets/icons/019.png",
+      "kind": "source-icon",
+      "sha256": "9e0eeb68c9d169d4f5792e8c007882af9668c4bd2c3ca68186d22df1c73a0ec6"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/20_полицейский.png",
+      "file": "assets/cards/020.png",
+      "kind": "source-card",
+      "sha256": "77a230706aff4154a7d40a70068108aaacf6d4fd22b1d9781941ce97b2180c81"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/20_полицейский.png",
+      "file": "assets/icons/020.png",
+      "kind": "source-icon",
+      "sha256": "6c4a36cf3d62284c2daf0cc70cf3d8830d0f29e0bf21f87c0b5f00caf15de139"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/21_почтальон.png",
+      "file": "assets/cards/021.png",
+      "kind": "source-card",
+      "sha256": "7656f82443490546dee05148223ffc699aaa6ed63042d952362b373c0910bce2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/21_почтальон.png",
+      "file": "assets/icons/021.png",
+      "kind": "source-icon",
+      "sha256": "5c6a4a75133e84bd55a3b8cb6f6bbf2a0742c97cd66f2d3d3296b8a8973e55aa"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/22_миллионер.png",
+      "file": "assets/cards/022.png",
+      "kind": "source-card",
+      "sha256": "e8193ee0db53d269b385575487634060aea10f3e9dfc87e7786a8c77ff759a71"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/22_миллионер.png",
+      "file": "assets/icons/022.png",
+      "kind": "source-icon",
+      "sha256": "67dcfd98b0eff1d4cc6dcb27207e6902f29de05a13f58139fe32051ddf739cb3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/23_молодой_человек_девушка.png",
+      "file": "assets/cards/023.png",
+      "kind": "source-card",
+      "sha256": "7e2868580d479344ed03cc70818aba9490e7b3c70bcb7961d0542c762209ff1d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/23_молодой_человек_девушка.png",
+      "file": "assets/icons/023.png",
+      "kind": "source-icon",
+      "sha256": "d5296981a5b1eea6ce99f052e729b1d2995d30012e27953a7b378d614ec95c51"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/24_площадь.png",
+      "file": "assets/cards/024.png",
+      "kind": "source-card",
+      "sha256": "84dd605b42eb672a0faffaeb6841f792a782d8aab744f1cdf0bd86eb5e01b27f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/24_площадь.png",
+      "file": "assets/icons/024.png",
+      "kind": "source-icon",
+      "sha256": "567e317df07a40cb5e3d2ebd73ded394613214fbeb69afc544a63fc3212f56c9"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/25_улица.png",
+      "file": "assets/cards/025.png",
+      "kind": "source-card",
+      "sha256": "32351aac6c0fe0ba093956952792649b6d8c9e8082fb805ddb3da662b0ab3255"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/25_улица.png",
+      "file": "assets/icons/025.png",
+      "kind": "source-icon",
+      "sha256": "1e5f18aef228b8f093c3dbe479260d6e03531d3196fe9ffffe3839725a6b6ec5"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/26_проспект.png",
+      "file": "assets/cards/026.png",
+      "kind": "source-card",
+      "sha256": "c5f57f2ef66e848025b9a63d3c1e2adebddb30c5a226340c1b1f651733347e36"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/26_проспект.png",
+      "file": "assets/icons/026.png",
+      "kind": "source-icon",
+      "sha256": "075937970595134c9efe8b9d126a5337532758d1721e5aaeda29f61dadd05000"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/27_переулок.png",
+      "file": "assets/cards/027.png",
+      "kind": "source-card",
+      "sha256": "1a3040b867ab7c78067675ef245e1617f24a335cc801158b4d232a9454b24e0f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/27_переулок.png",
+      "file": "assets/icons/027.png",
+      "kind": "source-icon",
+      "sha256": "2312bfef858776df91682fdc42e6671535628aa252f05b9bc5014e601f47cfaf"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/28_перекрёсток.png",
+      "file": "assets/cards/028.png",
+      "kind": "source-card",
+      "sha256": "c3782e9e4457acb4555198d5f708483eb1f555230bfe386f3ddd284542623e74"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/28_перекрёсток.png",
+      "file": "assets/icons/028.png",
+      "kind": "source-icon",
+      "sha256": "dfb439b5fab39f2068c753658c78cf66bb4817746802eedf45bf81ea48b4705a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/29_переход.png",
+      "file": "assets/cards/029.png",
+      "kind": "source-card",
+      "sha256": "bdb098afef74a0e0de006d7bd4b84844f0d52cab2c866a9b9eced7bc83276914"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/29_переход.png",
+      "file": "assets/icons/029.png",
+      "kind": "source-icon",
+      "sha256": "bdfe118309b3c0036e0848198c107d675f77dfd5e65154f2bbadcc236b24595f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/30_мост.png",
+      "file": "assets/cards/030.png",
+      "kind": "source-card",
+      "sha256": "d899eabf4f6ca929d469dd7a100103e9fb19a8fafcd8a79fa42de02e9eef262e"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/30_мост.png",
+      "file": "assets/icons/030.png",
+      "kind": "source-icon",
+      "sha256": "7ca78a9f96066ee3fdace28816b2b1b73958e20237747dad291d4d380bcb2f5e"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/31_центр_города.png",
+      "file": "assets/cards/031.png",
+      "kind": "source-card",
+      "sha256": "951af0180d328955fc71bd064beaae3268c03d0ee3d0a0b4434afcf8bce9f2e9"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/31_центр_города.png",
+      "file": "assets/icons/031.png",
+      "kind": "source-icon",
+      "sha256": "34c447bb6ff11f4fa55733bafbe71fc8563ecaa391e9ee1cbcc95e1bc034a39b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/32_окраина.png",
+      "file": "assets/cards/032.png",
+      "kind": "source-card",
+      "sha256": "89db9c5abefaac0de08a4f6ede9609e0f888bdcb44ff849038bf39ed202628c7"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/32_окраина.png",
+      "file": "assets/icons/032.png",
+      "kind": "source-icon",
+      "sha256": "efde13f361499c67d7bbfd01a5625007870e534945c181369b4b8b882a8bbdb5"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/33_микрорайон.png",
+      "file": "assets/cards/033.png",
+      "kind": "source-card",
+      "sha256": "3add556ff3393e95eb0a1af455d8ce922cc67024d7d9968168d667e6211733a2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/33_микрорайон.png",
+      "file": "assets/icons/033.png",
+      "kind": "source-icon",
+      "sha256": "7a8f123d47bf684150e38646fec0359851e5d2e2ff67697f85b56ca9ffabddb0"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/34_район.png",
+      "file": "assets/cards/034.png",
+      "kind": "source-card",
+      "sha256": "71e7e36dd319359695eb9fadbe46b5dedf8da0d9746d687057611ec2619d767e"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/34_район.png",
+      "file": "assets/icons/034.png",
+      "kind": "source-icon",
+      "sha256": "e3eb37c99cb822bb407f9f52fe2cb81cec272e338f242a2bf6b1b08bc011c596"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/35_двор.png",
+      "file": "assets/cards/035.png",
+      "kind": "source-card",
+      "sha256": "a6ad2772db8f5a9ffd9ebbbf664be0d472d591b0e91fbe3a0e1c096b332c23aa"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/35_двор.png",
+      "file": "assets/icons/035.png",
+      "kind": "source-icon",
+      "sha256": "a98d06efc2162a082543b42dcac45d148f1cd42de3fd5fd0514d5c717464564b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/36_здание.png",
+      "file": "assets/cards/036.png",
+      "kind": "source-card",
+      "sha256": "da33ae660a0fe3ce2804f9ba958caedc53eeb38e67886f6ffb4a46c58eeeded3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/36_здание.png",
+      "file": "assets/icons/036.png",
+      "kind": "source-icon",
+      "sha256": "1ad3bacbcecc170519cd52ba6c4c5b579dda444a863527752d22383348b21572"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/37_жилой_дом.png",
+      "file": "assets/cards/037.png",
+      "kind": "source-card",
+      "sha256": "43e38722bd98e92355ed4bbf7764092a0816fd9336ac71905166308858457eec"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/37_жилой_дом.png",
+      "file": "assets/icons/037.png",
+      "kind": "source-icon",
+      "sha256": "879bbeedf66928f896e51c84e961f0bc85c6e0f2c52a0f1d705a570980d378b1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/38_почта.png",
+      "file": "assets/cards/038.png",
+      "kind": "source-card",
+      "sha256": "6a2bae12c971b16b18d4b69d2904f656ca8807419dd64dbc6be45cba7b3d05ac"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/38_почта.png",
+      "file": "assets/icons/038.png",
+      "kind": "source-icon",
+      "sha256": "a7df5d42cf8caa043596ded752bc8d85939397993828684e0db3edb3ed9b1f4a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/39_банк.png",
+      "file": "assets/cards/039.png",
+      "kind": "source-card",
+      "sha256": "305edd65d0dd819a6d4149a2fe18e30c3f86bc4b29cdc916465d418e8be2653d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/39_банк.png",
+      "file": "assets/icons/039.png",
+      "kind": "source-icon",
+      "sha256": "80079918b3286cd9c03edac61874550cf09e0834f6d08470fef6699d58146085"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/40_аптека.png",
+      "file": "assets/cards/040.png",
+      "kind": "source-card",
+      "sha256": "7358f41e6c2aaeb347e536fddfc4cefdb672921cb05dd28fea6374b1116d2855"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/40_аптека.png",
+      "file": "assets/icons/040.png",
+      "kind": "source-icon",
+      "sha256": "0b5db992fbc4e743113f2c2a9248176fda1072e366b3a096bec4dc57a859d235"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/41_больница.png",
+      "file": "assets/cards/041.png",
+      "kind": "source-card",
+      "sha256": "99db70bb605524cda834f9fa846609c1d0e08961f210012aad9399d3359f89c4"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/41_больница.png",
+      "file": "assets/icons/041.png",
+      "kind": "source-icon",
+      "sha256": "85eb83aa4f120a589e41eb1d19031612653ad333904275617651c84d3d66bef4"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/42_гостиница.png",
+      "file": "assets/cards/042.png",
+      "kind": "source-card",
+      "sha256": "4d79b750d9b37e9943f2b7339440f0c87494e619f8b2980275a4b5a16e825678"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/42_гостиница.png",
+      "file": "assets/icons/042.png",
+      "kind": "source-icon",
+      "sha256": "435f79b58aa3c071cd5dfdfa72a1609a33f5969fa78a9537a0ba90199cc7a325"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/43_рынок.png",
+      "file": "assets/cards/043.png",
+      "kind": "source-card",
+      "sha256": "2f3078a0043b998ad82e4844cbd32060b8f9442ce6ab5126a885d07b8fd8d30c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/43_рынок.png",
+      "file": "assets/icons/043.png",
+      "kind": "source-icon",
+      "sha256": "5050889c9d4dcc2eb24ba6d453fb235e27fa2f340d1a5b0d32fad2722a8d0d45"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/44_супермаркет.png",
+      "file": "assets/cards/044.png",
+      "kind": "source-card",
+      "sha256": "4cc5ef09bcef1d223bbe06b76f9b4c5f7165db32e1ee17ee2fdd3deaaee254e2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/44_супермаркет.png",
+      "file": "assets/icons/044.png",
+      "kind": "source-icon",
+      "sha256": "bbc09176641df4892f9cea26e0c55df572c2e97180fbdb6c2b99b02d5748eac3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/45_стадион.png",
+      "file": "assets/cards/045.png",
+      "kind": "source-card",
+      "sha256": "376b161d852bdae7985c0a876cbfeb5aa455be5fba45fad448663fddaba83e30"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/45_стадион.png",
+      "file": "assets/icons/045.png",
+      "kind": "source-icon",
+      "sha256": "d79e6b36fe33b9303da1238b6d7b402fc070fcfb10b2f61fa67f16cd5df52f78"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/46_цирк.png",
+      "file": "assets/cards/046.png",
+      "kind": "source-card",
+      "sha256": "6389e69a97542494dcd09f5e5adc7c46950c2b6c4e2d3b9f2b88ffb2bff34431"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/46_цирк.png",
+      "file": "assets/icons/046.png",
+      "kind": "source-icon",
+      "sha256": "6682ed00e002c580385b0f995738f6d800833815320ef26f493a5aa95b9fdb9e"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/47_парикмахерская.png",
+      "file": "assets/cards/047.png",
+      "kind": "source-card",
+      "sha256": "9f1acc342061fe9af2e8e1a51c48d4a08ade9187573e699da8b80cf59af38454"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/47_парикмахерская.png",
+      "file": "assets/icons/047.png",
+      "kind": "source-icon",
+      "sha256": "b1a1e240078729b7ff7107cc026c1dab9262d39f67a589821d02ee15ea98dec9"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/48_газетный_киоск.png",
+      "file": "assets/cards/048.png",
+      "kind": "source-card",
+      "sha256": "f351bf6ff422e28b49a2205a4d78fc52215c95a91a43c1a327ead3c51290993c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/48_газетный_киоск.png",
+      "file": "assets/icons/048.png",
+      "kind": "source-icon",
+      "sha256": "d3b0433bdba2e9c3c7817bc10895880478a161769eb624eae6f3f642ce639db5"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/49_завод_фабрика.png",
+      "file": "assets/cards/049.png",
+      "kind": "source-card",
+      "sha256": "fa7757bc08ebf234db7c9ffd6c6b52dc919c500fc2d3f9242a6a9d3f2ce6e07d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/49_завод_фабрика.png",
+      "file": "assets/icons/049.png",
+      "kind": "source-icon",
+      "sha256": "5a6145de7c4c986668e2e44fa3c1a324cae7caa8c1b65d12897faea87a4d03e3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/50_карта_города_схема.png",
+      "file": "assets/cards/050.png",
+      "kind": "source-card",
+      "sha256": "9361a41ef47b03ae2edeaf5cb35d3817b91c7bcd5dacd70092850b1bdedc35d5"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/50_карта_города_схема.png",
+      "file": "assets/icons/050.png",
+      "kind": "source-icon",
+      "sha256": "8f8fcf83ff5e75fb86e366fbbf4ab9c795fa723d7ad05f064434aebe48a3becb"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/51_вывеска.png",
+      "file": "assets/cards/051.png",
+      "kind": "source-card",
+      "sha256": "cce208a977ff6daf685a343085f6771da1e58d0861f494c455bdc3ac6c7f7ad2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/51_вывеска.png",
+      "file": "assets/icons/051.png",
+      "kind": "source-icon",
+      "sha256": "4c90125ff18abe98d33084b7f94225fc65a2540cc9f88af0f9bc166d0206c2e2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/52_достопримечательность.png",
+      "file": "assets/cards/052.png",
+      "kind": "source-card",
+      "sha256": "ec353ee228eff48faccf449290cb36c7860a1792cb6ce85ca935b6c5fcf0f74c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/52_достопримечательность.png",
+      "file": "assets/icons/052.png",
+      "kind": "source-icon",
+      "sha256": "dc8d07f68976734cf1f8c87f2a4b670e957c4fe2bb04c8a39eebc46b01b94231"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/53_добраться_до_чего.png",
+      "file": "assets/cards/053.png",
+      "kind": "source-card",
+      "sha256": "75b1c35a7cad1fc584573f14c651ffb2580e5325f2c3ae02319ba833e96de9f4"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/53_добраться_до_чего.png",
+      "file": "assets/icons/053.png",
+      "kind": "source-icon",
+      "sha256": "e5d14530b3f8b94d34ea9a03e0d5de57c0449af99f712de792c402c2ccd293bc"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/54_доехать_до_чего.png",
+      "file": "assets/cards/054.png",
+      "kind": "source-card",
+      "sha256": "0441bf0fe4c69c7d45008f3d54bf40440a7d3604b9b412689d54b100cf4458f1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/54_доехать_до_чего.png",
+      "file": "assets/icons/054.png",
+      "kind": "source-icon",
+      "sha256": "e394bb2d148ffcb7f8f524b447b4a944639c25aeed0502cf5e473829e9955b4c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/55_дойти_до_чего.png",
+      "file": "assets/cards/055.png",
+      "kind": "source-card",
+      "sha256": "2ee6fae549803c148586a081046915c2cf9876344bf945204a60023b642faa18"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/55_дойти_до_чего.png",
+      "file": "assets/icons/055.png",
+      "kind": "source-icon",
+      "sha256": "9abac4e7f7d73ca81ecddc37fe362ad3699322f0aa8ef77d1959c609ffc32866"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/56_пройти_через_что.png",
+      "file": "assets/cards/056.png",
+      "kind": "source-card",
+      "sha256": "3b8344e10dd520ecd3141872b3b26072da4b03b385bc078b0a6617bf09f0b7de"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/56_пройти_через_что.png",
+      "file": "assets/icons/056.png",
+      "kind": "source-icon",
+      "sha256": "bc2c1885e6489026838508ee3f4d06bd031fd1de598ea27eafe7aa112cdf5a39"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/57_перейти_дорогу.png",
+      "file": "assets/cards/057.png",
+      "kind": "source-card",
+      "sha256": "ae428682081535ef9261ee6cd31c697fb1bcd1de903d543c61c8af88557edff1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/57_перейти_дорогу.png",
+      "file": "assets/icons/057.png",
+      "kind": "source-icon",
+      "sha256": "87a0ff15ad7273d16880f34138de37486225623cd137f192505b9b68b8fc07df"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/58_поверните_направо_налево.png",
+      "file": "assets/cards/058.png",
+      "kind": "source-card",
+      "sha256": "b8851e074a0f14ede649e5a452dfd05223810393af6c9b3b2f61afb219f96876"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/58_поверните_направо_налево.png",
+      "file": "assets/icons/058.png",
+      "kind": "source-icon",
+      "sha256": "74f2b500e4287f8ba82b435c4748756c5a1126b87482fb67bb562ee1853f6d34"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/59_идите_прямо.png",
+      "file": "assets/cards/059.png",
+      "kind": "source-card",
+      "sha256": "c7c833e42a58e992580b73272480440a029100e2ab0aa3d8cb174dd0fcc4a3e7"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/59_идите_прямо.png",
+      "file": "assets/icons/059.png",
+      "kind": "source-icon",
+      "sha256": "35af2fde30005d92d9a7d993980b264b68d6de315f97d9591e45a67fb2e52306"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/60_сесть_на_автобус.png",
+      "file": "assets/cards/060.png",
+      "kind": "source-card",
+      "sha256": "a224ef5e96441085c0c346cf4ab3aa1bf41a30b92d16bff8e403bf2f1add148c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/60_сесть_на_автобус.png",
+      "file": "assets/icons/060.png",
+      "kind": "source-icon",
+      "sha256": "a92ba549373b226e8a893e6f99d5e4080aba1a7f94cbff122aed36ddad930664"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/61_проехать_остановки.png",
+      "file": "assets/cards/061.png",
+      "kind": "source-card",
+      "sha256": "a278d692a1812e8631f88150e2e5930b994ccd39e7e204d4dfbb1caaab19a195"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/61_проехать_остановки.png",
+      "file": "assets/icons/061.png",
+      "kind": "source-icon",
+      "sha256": "b36d87298e5c190a809c262325b5c4314d80d8b5e25db77e77584aaafc1054db"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/62_напротив_чего.png",
+      "file": "assets/cards/062.png",
+      "kind": "source-card",
+      "sha256": "82df7822c687991eb962e885866a92fd3da0d8a9213310e98487ca7ea315c82a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/62_напротив_чего.png",
+      "file": "assets/icons/062.png",
+      "kind": "source-icon",
+      "sha256": "1702d32cd361020190c25860bf7b719ee2c69bcb0d1c540a6dabc01ac70afa01"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/63_около_рядом_с.png",
+      "file": "assets/cards/063.png",
+      "kind": "source-card",
+      "sha256": "f8586aef8523922d4f01bccccbebe7655e09f65e173f407fbc433278e303641a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/63_около_рядом_с.png",
+      "file": "assets/icons/063.png",
+      "kind": "source-icon",
+      "sha256": "d4aed5b694af45bb9edd94cad0b3893bcce4f6b0ff6e21a922b3e971697d8bcd"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/64_мимо_чего.png",
+      "file": "assets/cards/064.png",
+      "kind": "source-card",
+      "sha256": "443821fe2803d5b4cd5b3c495163fc66791dc82d194402da4f5b4f7c5630a672"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/64_мимо_чего.png",
+      "file": "assets/icons/064.png",
+      "kind": "source-icon",
+      "sha256": "87c40852d743c58687e5218301a058a2579e602033be7861f7292e62a8a51e0f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/65_обратиться_к_кому.png",
+      "file": "assets/cards/065.png",
+      "kind": "source-card",
+      "sha256": "71731fe6c04f26beb3cc3ba32b0c907ab4db717575a680d73c206c55f6e15181"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/65_обратиться_к_кому.png",
+      "file": "assets/icons/065.png",
+      "kind": "source-icon",
+      "sha256": "eb73631e02aaa1d56f5d15c6a1d1e05d917d865741213753f094153e93e09a7f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/66_спросить_у_кого.png",
+      "file": "assets/cards/066.png",
+      "kind": "source-card",
+      "sha256": "a8382e7bc1dd801fcdf79792eafa6cee5c74b965b6e5f4c2234a031219b68c46"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/66_спросить_у_кого.png",
+      "file": "assets/icons/066.png",
+      "kind": "source-icon",
+      "sha256": "6fed6178c7f7923c18fc082f174877054cfe27e146c51cf697dbaa4dad7b5a87"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/67_искать.png",
+      "file": "assets/cards/067.png",
+      "kind": "source-card",
+      "sha256": "309a9a8d1a3d99628e99c819056c5add9c1c11f63d10de7d43224210b5765450"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/67_искать.png",
+      "file": "assets/icons/067.png",
+      "kind": "source-icon",
+      "sha256": "70fc748bad494946c474b21e8a6e009d98076492c9d54780bb46e4a746543424"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/68_потеряться_заблудиться.png",
+      "file": "assets/cards/068.png",
+      "kind": "source-card",
+      "sha256": "af43ccae5ad91dd6d0716bafd3aeb870b9851917842d88ab2c928cb88d13d677"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/68_потеряться_заблудиться.png",
+      "file": "assets/icons/068.png",
+      "kind": "source-icon",
+      "sha256": "edf3994c88d76fc55d97dd8793df0dcd286fcc5e7eece65850522eeb5e621cbf"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/69_знать_точно.png",
+      "file": "assets/cards/069.png",
+      "kind": "source-card",
+      "sha256": "f2307233a2fc61b8d556c317ad3049599579a730742a3c7cc025786db8b4f3bf"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/69_знать_точно.png",
+      "file": "assets/icons/069.png",
+      "kind": "source-icon",
+      "sha256": "ff7397526f8a63acbc7b6ab675c1a671c0fb4ede2510c8b808c574b326ed8b52"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/70_торопиться.png",
+      "file": "assets/cards/070.png",
+      "kind": "source-card",
+      "sha256": "bfa46f7469c63a4202605199ef741e65d9e5b662da1c19efe6b3c650547fe327"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/70_торопиться.png",
+      "file": "assets/icons/070.png",
+      "kind": "source-icon",
+      "sha256": "2ccf66bd37d8e3630cfe480364751647cd0b3280d53f77e9acefbd2975a76ce1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/71_срочно.png",
+      "file": "assets/cards/071.png",
+      "kind": "source-card",
+      "sha256": "669aa2d1a79a0b3d9dc125b6e4857c4d1a74aee6db2999b60c39f55b69a82d1c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/71_срочно.png",
+      "file": "assets/icons/071.png",
+      "kind": "source-icon",
+      "sha256": "0ec5f02c0996909aab8bb1ad9c8a0db2bfc599301630f75be7ffb66ce185df02"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/72_удобно_неудобно.png",
+      "file": "assets/cards/072.png",
+      "kind": "source-card",
+      "sha256": "c5eccb73fa67b12d89326e7a3cca0a291f9db930399cc26eac575614707ea02f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/72_удобно_неудобно.png",
+      "file": "assets/icons/072.png",
+      "kind": "source-icon",
+      "sha256": "0eae27483a803c25ae7c8d93cfcfb52fa50192b284c462137797a408ba34e968"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/73_комфортно.png",
+      "file": "assets/cards/073.png",
+      "kind": "source-card",
+      "sha256": "088917a562a4c2d467e758ad4b1addc74defded81dfc4bb5b7d7293dc7f5a7cc"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/73_комфортно.png",
+      "file": "assets/icons/073.png",
+      "kind": "source-icon",
+      "sha256": "2fc57e03ad0e4765af9c938469436db3e5c6e7955afc9393690b09d32f410287"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/74_дорого_недорого_дёшево.png",
+      "file": "assets/cards/074.png",
+      "kind": "source-card",
+      "sha256": "e010ef4a065b44823b04779e17e2154feea79e0b6c6f030b64950679e71aefd5"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/74_дорого_недорого_дёшево.png",
+      "file": "assets/icons/074.png",
+      "kind": "source-icon",
+      "sha256": "1f77f37c616db72aed7c03d223f447ba22512c6e72f32b6dbf35b0772b4a039b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/75_быстро_медленно.png",
+      "file": "assets/cards/075.png",
+      "kind": "source-card",
+      "sha256": "7866e78c4c57b25d49543271c5833bf7c0c61ffca02359a482e5c042037d6715"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/75_быстро_медленно.png",
+      "file": "assets/icons/075.png",
+      "kind": "source-icon",
+      "sha256": "06a36e85aaf6d0b3b7eb30968f6f3e45693dc6042ff1f7b9fca8cbe6781aadf2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/76_далеко_близко.png",
+      "file": "assets/cards/076.png",
+      "kind": "source-card",
+      "sha256": "15efb8ab530c5d254d08ca19ab4d40adb84da2eeb43b2d14c110666dad70b085"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/76_далеко_близко.png",
+      "file": "assets/icons/076.png",
+      "kind": "source-icon",
+      "sha256": "27e9f80643c71ce0a0340161d0378fd2d04a4f1cbbc4b9011e41b61aeec7e2e7"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/77_древний_современный.png",
+      "file": "assets/cards/077.png",
+      "kind": "source-card",
+      "sha256": "75e47b36ed40c103997d9ddfd5d5d3980ad275522e349f1430493cb76bd41b05"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/77_древний_современный.png",
+      "file": "assets/icons/077.png",
+      "kind": "source-icon",
+      "sha256": "4274953b7b03eb6b2de7793cf0820f50f9d3a61d469fd2af012593562f33a161"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/78_промышленный_город.png",
+      "file": "assets/cards/078.png",
+      "kind": "source-card",
+      "sha256": "f7928ec833f603975027d0cca73df2985fe7b2da713e02d3a7c424172e42d36d"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/78_промышленный_город.png",
+      "file": "assets/icons/078.png",
+      "kind": "source-icon",
+      "sha256": "eab2f2066ada1cd6c0be4a45334e9113d309d079ef49e54dd8a377ad0fca96bf"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/79_город_миллионер.png",
+      "file": "assets/cards/079.png",
+      "kind": "source-card",
+      "sha256": "889a45bcfa60ba21f4e618a4ceb389200c13f7a2a15dffa4081b7b084c556881"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/79_город_миллионер.png",
+      "file": "assets/icons/079.png",
+      "kind": "source-icon",
+      "sha256": "314e8b44b9a63348a01cd974b32fecd1c791a5d0196ce18235adb0a10e15c73e"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/80_столица.png",
+      "file": "assets/cards/080.png",
+      "kind": "source-card",
+      "sha256": "3ebdd82dd82c86fb596faf034e2637b6990e063b634ed8be70e8f1fc0e5a3e07"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/80_столица.png",
+      "file": "assets/icons/080.png",
+      "kind": "source-icon",
+      "sha256": "f7d43dff90ce17e9ffb158f1950bee1bc5a86bb04b47139dd044d0427fe777cb"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/81_представление.png",
+      "file": "assets/cards/081.png",
+      "kind": "source-card",
+      "sha256": "64f72c265083192cc57e65f10513a756385dbdcba8b623728633e3ccff259206"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/81_представление.png",
+      "file": "assets/icons/081.png",
+      "kind": "source-icon",
+      "sha256": "aabcaeaba7318583b0ab63cfd65e0895c4324cf9d6c0308307970c41f5668654"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/82_Вот_именно.png",
+      "file": "assets/cards/082.png",
+      "kind": "source-card",
+      "sha256": "70adc61d9404313d546c827a9760a71afdb950b2eae86ec7ad95ca52f030030a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/82_Вот_именно.png",
+      "file": "assets/icons/082.png",
+      "kind": "source-icon",
+      "sha256": "2abd5ced6814638216488dc94f298740f9a15cd7da05263f313d6f778e4a3b28"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки/83_Как_же.png",
+      "file": "assets/cards/083.png",
+      "kind": "source-card",
+      "sha256": "40dcd57b1db3fa280c94b3f3d5b9cbaffa26f5a538716ac1a9aedd688b016eb2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки/83_Как_же.png",
+      "file": "assets/icons/083.png",
+      "kind": "source-icon",
+      "sha256": "8e5a5a91cda1ba10355cf3828f7f55dba1dd244c8c577bbd094255d6d8b532f4"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/близко.png",
+      "file": "assets/cards/084.png",
+      "kind": "source-card",
+      "sha256": "7b043577d9af9f7d28c893195258274da450eec086c2215acb9451ecb382d4a2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/близко.png",
+      "file": "assets/icons/084.png",
+      "kind": "source-icon",
+      "sha256": "1ce9e52eebb6fea03c7060ca59a5ed05c5542b0c3a8fa0413d71729afd607a34"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/большой.png",
+      "file": "assets/cards/085.png",
+      "kind": "source-card",
+      "sha256": "86ca741990a724a1d49f9e26ecbfcdfa79ad6e043ed10c19a735236235a3ebc6"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/большой.png",
+      "file": "assets/icons/085.png",
+      "kind": "source-icon",
+      "sha256": "e4e3e4afb6bc0e9cf580f9b77857d8bbbe3ed3fed95b4d2ad076f0801299ccec"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/быстро.png",
+      "file": "assets/cards/086.png",
+      "kind": "source-card",
+      "sha256": "e20655d0b84a123d35b1de8bfee71122b6709c2b4199c1f11c2979c92bb26875"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/быстро.png",
+      "file": "assets/icons/086.png",
+      "kind": "source-icon",
+      "sha256": "79a6a31a56db3a575b00eaa6d7a5c280408b78005a306759462953255f33b6a0"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/вход.png",
+      "file": "assets/cards/087.png",
+      "kind": "source-card",
+      "sha256": "c53bf90a9ef7f36784bba16a6bc482e1ec87aeb523141b46346482af7dcd9203"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/вход.png",
+      "file": "assets/icons/087.png",
+      "kind": "source-icon",
+      "sha256": "921aa6258ac24888757df99ebbdc4bb9c21d543d288d334608d03e44ad216ff4"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/выход.png",
+      "file": "assets/cards/088.png",
+      "kind": "source-card",
+      "sha256": "1be8c14e943ac1a1b8d7afeaac8133ec14d4be42719a6ff58ccb7f1b20c9d4da"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/выход.png",
+      "file": "assets/icons/088.png",
+      "kind": "source-icon",
+      "sha256": "3e890c209828de0fda6f82aa662c8affe617acfd9e01eb9771db7ed5336a6a52"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/далеко.png",
+      "file": "assets/cards/089.png",
+      "kind": "source-card",
+      "sha256": "8807bf043ae900af1b1901ce554ab974e67dd4cc4104789df0d6c71cd06e5ab9"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/далеко.png",
+      "file": "assets/icons/089.png",
+      "kind": "source-icon",
+      "sha256": "d7af762ca8e2c5ddb5488d78d7146b450175253364ff63489e87248af0e22ee1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/дорого.png",
+      "file": "assets/cards/090.png",
+      "kind": "source-card",
+      "sha256": "d77e1338290dd9b959e15ca2f948faf28a2564f3acdaafbce8b8e458a301a445"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/дорого.png",
+      "file": "assets/icons/090.png",
+      "kind": "source-icon",
+      "sha256": "d293199c26c2436ab6e1710b91ba99d195805e7b78f1a4c00f6872653974df95"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/древний.png",
+      "file": "assets/cards/091.png",
+      "kind": "source-card",
+      "sha256": "4fa41d8e365d42f225cd0cd81cb22d5e04e9570871d7a8acacee619da7ff93ac"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/древний.png",
+      "file": "assets/icons/091.png",
+      "kind": "source-icon",
+      "sha256": "99385aca97bab9395b5b269b5fe742db04bcb962b3ddba6164f41c2a0e4d2de5"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/маленький.png",
+      "file": "assets/cards/092.png",
+      "kind": "source-card",
+      "sha256": "bcb26ffe77adb474fb4c319547b2c5f95d50b7e07c67c0c75d2a109c3aa31726"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/маленький.png",
+      "file": "assets/icons/092.png",
+      "kind": "source-icon",
+      "sha256": "af9569e0e95622bc7bd4702a76a3a4c7f330b876766e6034df0ce5b3b62e7037"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/медленно.png",
+      "file": "assets/cards/093.png",
+      "kind": "source-card",
+      "sha256": "1442ca869331a602bcc11f909d44d456af1a839af3ae59d89b7777578bcdf36c"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/медленно.png",
+      "file": "assets/icons/093.png",
+      "kind": "source-icon",
+      "sha256": "da440dbfcb0a63ffa15e952747189bee27230853518a8015e1085be0aa8345e0"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/налево.png",
+      "file": "assets/cards/094.png",
+      "kind": "source-card",
+      "sha256": "28a4edd024b4f4b74c1c920371127063c32c59ce6d1f91437217b787bfd8ed5e"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/налево.png",
+      "file": "assets/icons/094.png",
+      "kind": "source-icon",
+      "sha256": "28d0c9cdbbf4d5cbfab1e668e50f46378eb450db84186694119c13072ac6d9b2"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/направо.png",
+      "file": "assets/cards/095.png",
+      "kind": "source-card",
+      "sha256": "b2e2080710be8ea5114cf9d42eb097cd43f6ee13ff425a9f321b82742010cafe"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/направо.png",
+      "file": "assets/icons/095.png",
+      "kind": "source-icon",
+      "sha256": "3377600c2948099984e8f596277848f8da6a359dcc0a9fa664bb0220f937245a"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/недалеко.png",
+      "file": "assets/cards/096.png",
+      "kind": "source-card",
+      "sha256": "f5ab36a1f2a8efbfd88ebb0c69ce35721ec45738158e97aa9cfda76d11f1f928"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/недалеко.png",
+      "file": "assets/icons/096.png",
+      "kind": "source-icon",
+      "sha256": "4597c36d1c6814fee9ed5eb790afbe8f801795af8b4ff19b116dfe35efb05c5f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/недорого.png",
+      "file": "assets/cards/097.png",
+      "kind": "source-card",
+      "sha256": "7ee1540752e9d16487c44f67da4de7a9f5bd682cfe18135f123f1aa1e8d6c083"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/недорого.png",
+      "file": "assets/icons/097.png",
+      "kind": "source-icon",
+      "sha256": "4d0d96e88da3a9ee1f8dcb348f0a1884a97ec7dcdc8e87c4524ba142a290d4fb"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/неудобно.png",
+      "file": "assets/cards/098.png",
+      "kind": "source-card",
+      "sha256": "e7d28df1739deae69ef6ed8a8896fd05aa4a9d01cc9fed597cdde3ed073d3aa3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/неудобно.png",
+      "file": "assets/icons/098.png",
+      "kind": "source-icon",
+      "sha256": "2a65eb3b0ec0fd61af6ac88f7e7faa833ac126bbafa9f315628b1bb532fee1c1"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/современный.png",
+      "file": "assets/cards/099.png",
+      "kind": "source-card",
+      "sha256": "a817ecce9320c032c6409fe1d2b912563488b387b50627c9c11a45c2b2592c3b"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/современный.png",
+      "file": "assets/icons/099.png",
+      "kind": "source-icon",
+      "sha256": "2b63b0e5d2859c29d8047ce6aed2d4dea80bff5a7c986bae4d07d659cc2709c3"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Карточки_прилагательные_наречия/удобно.png",
+      "file": "assets/cards/100.png",
+      "kind": "source-card",
+      "sha256": "441e2083ba9c94a9b7f7b8407617b0459747149f6d505135fc88a12eabcf398f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_прилагательные_наречия/удобно.png",
+      "file": "assets/icons/100.png",
+      "kind": "source-icon",
+      "sha256": "e7b46d521451a8397479ab5cb7eab38cfe878d76f07b8b9e6352ab2ef7778853"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Плакаты/Как_объяснить_дорогу.png",
+      "file": "assets/posters/1.png",
+      "kind": "source-posters",
+      "sha256": "cefc450eac923ee9dc2247b178717866d5483e4934fdc7e8300a27fdeaac25f8"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Плакаты/Люди_в_городе.png",
+      "file": "assets/posters/2.png",
+      "kind": "source-posters",
+      "sha256": "5906dc0007bb9d12a98d3fc96acb4b7c2264ef596e339964642c3f5badbff5bb"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Плакаты/Оценки_и_характеристики.png",
+      "file": "assets/posters/3.png",
+      "kind": "source-posters",
+      "sha256": "bf1a92156c7669ee993bcfda1dca72044000b84c4b1eb8eedba1d1754e03bcf9"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Плакаты/Транспорт_и_движение.png",
+      "file": "assets/posters/4.png",
+      "kind": "source-posters",
+      "sha256": "9e43c3cddb2272b432e1f0edb41bdc69436a35a51f633a4b8f8abb5a798e8f8f"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Плакаты/Улицы_и_места.png",
+      "file": "assets/posters/5.png",
+      "kind": "source-posters",
+      "sha256": "e9aa8ca9737e7646d2e307d7ea040976426f48e05933034635212a6d64705afb"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_команды/встаньте.png",
+      "file": "assets/commands/1.png",
+      "kind": "source-commands",
+      "sha256": "868893c6d858b96a8a9e221742725f3b31d764eb566b906dec61aafd2c3a6f09"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_команды/сидите.png",
+      "file": "assets/commands/2.png",
+      "kind": "source-commands",
+      "sha256": "1c7d7e1e5e2360340ffefbbac59ff19a42c1d2a317f1fc6ca71028665bf7f933"
+    },
+    {
+      "source": "/Users/Svetlana/Desktop/JNU/2026-2027/аудиовизуальный курс/3_Словарь_картинками/Иконки_команды/хором.png",
+      "file": "assets/commands/3.png",
+      "kind": "source-commands",
+      "sha256": "e4a01a1366ae53c09eae8bfb5e2ca100aed207fbb304c4aa15f81a20e774a861"
+    }
+  ],
+  "coverage": [
+    {
+      "word": "го́род",
+      "ids": [
+        100
+      ]
+    },
+    {
+      "word": "дере́вня",
+      "ids": [
+        101
+      ]
+    },
+    {
+      "word": "столи́ца",
+      "ids": [
+        79
+      ]
+    },
+    {
+      "word": "го́род-миллионе́р",
+      "ids": [
+        78
+      ]
+    },
+    {
+      "word": "центр (го́рода)",
+      "ids": [
+        30,
+        30
+      ]
+    },
+    {
+      "word": "окра́ина",
+      "ids": [
+        31
+      ]
+    },
+    {
+      "word": "микрорайо́н",
+      "ids": [
+        32
+      ]
+    },
+    {
+      "word": "райо́н",
+      "ids": [
+        33
+      ]
+    },
+    {
+      "word": "у́лица",
+      "ids": [
+        24
+      ]
+    },
+    {
+      "word": "проспе́кт",
+      "ids": [
+        25
+      ]
+    },
+    {
+      "word": "переу́лок",
+      "ids": [
+        26
+      ]
+    },
+    {
+      "word": "пло́щадь",
+      "ids": [
+        23
+      ]
+    },
+    {
+      "word": "перекрёсток",
+      "ids": [
+        27
+      ]
+    },
+    {
+      "word": "перехо́д",
+      "ids": [
+        28
+      ]
+    },
+    {
+      "word": "мост",
+      "ids": [
+        29
+      ]
+    },
+    {
+      "word": "доро́га",
+      "ids": [
+        102
+      ]
+    },
+    {
+      "word": "двор",
+      "ids": [
+        34
+      ]
+    },
+    {
+      "word": "зда́ние",
+      "ids": [
+        35
+      ]
+    },
+    {
+      "word": "жило́й дом",
+      "ids": [
+        36
+      ]
+    },
+    {
+      "word": "общежи́тие",
+      "ids": [
+        103
+      ]
+    },
+    {
+      "word": "по́чта",
+      "ids": [
+        37
+      ]
+    },
+    {
+      "word": "банк",
+      "ids": [
+        38
+      ]
+    },
+    {
+      "word": "апте́ка",
+      "ids": [
+        39
+      ]
+    },
+    {
+      "word": "больни́ца",
+      "ids": [
+        40
+      ]
+    },
+    {
+      "word": "магази́н",
+      "ids": [
+        104
+      ]
+    },
+    {
+      "word": "суперма́ркет",
+      "ids": [
+        43
+      ]
+    },
+    {
+      "word": "ры́нок",
+      "ids": [
+        42
+      ]
+    },
+    {
+      "word": "парк",
+      "ids": [
+        105
+      ]
+    },
+    {
+      "word": "стадио́н",
+      "ids": [
+        44
+      ]
+    },
+    {
+      "word": "музе́й",
+      "ids": [
+        106
+      ]
+    },
+    {
+      "word": "цирк",
+      "ids": [
+        45
+      ]
+    },
+    {
+      "word": "гости́ница",
+      "ids": [
+        41
+      ]
+    },
+    {
+      "word": "вокза́л",
+      "ids": [
+        7
+      ]
+    },
+    {
+      "word": "шко́ла",
+      "ids": [
+        107
+      ]
+    },
+    {
+      "word": "университе́т",
+      "ids": [
+        108
+      ]
+    },
+    {
+      "word": "заво́д / фа́брика",
+      "ids": [
+        48
+      ]
+    },
+    {
+      "word": "газе́тный кио́ск",
+      "ids": [
+        47
+      ]
+    },
+    {
+      "word": "библиоте́ка",
+      "ids": [
+        109
+      ]
+    },
+    {
+      "word": "парикма́херская",
+      "ids": [
+        46
+      ]
+    },
+    {
+      "word": "рестора́н",
+      "ids": [
+        110
+      ]
+    },
+    {
+      "word": "кинотеа́тр",
+      "ids": [
+        111
+      ]
+    },
+    {
+      "word": "тра́нспорт / вид тра́нспорта",
+      "ids": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "авто́бус",
+      "ids": [
+        0
+      ]
+    },
+    {
+      "word": "тролле́йбус",
+      "ids": [
+        1
+      ]
+    },
+    {
+      "word": "трамва́й",
+      "ids": [
+        2
+      ]
+    },
+    {
+      "word": "такси́",
+      "ids": [
+        3
+      ]
+    },
+    {
+      "word": "метро́",
+      "ids": [
+        4
+      ]
+    },
+    {
+      "word": "маши́на / автомоби́ль",
+      "ids": [
+        112
+      ]
+    },
+    {
+      "word": "велосипе́д",
+      "ids": [
+        113
+      ]
+    },
+    {
+      "word": "мопе́д",
+      "ids": [
+        114
+      ]
+    },
+    {
+      "word": "остано́вка",
+      "ids": [
+        6
+      ]
+    },
+    {
+      "word": "ста́нция (метро́)",
+      "ids": [
+        5
+      ]
+    },
+    {
+      "word": "переса́дка",
+      "ids": [
+        8
+      ]
+    },
+    {
+      "word": "прямо́е сообще́ние",
+      "ids": [
+        9
+      ]
+    },
+    {
+      "word": "про́бка",
+      "ids": [
+        11
+      ]
+    },
+    {
+      "word": "час пик",
+      "ids": [
+        15
+      ]
+    },
+    {
+      "word": "биле́т",
+      "ids": [
+        115
+      ]
+    },
+    {
+      "word": "ка́рта го́рода",
+      "ids": [
+        49,
+        49
+      ]
+    },
+    {
+      "word": "жи́тель",
+      "ids": [
+        18
+      ]
+    },
+    {
+      "word": "прохо́жий",
+      "ids": [
+        17
+      ]
+    },
+    {
+      "word": "пассажи́р",
+      "ids": [
+        12
+      ]
+    },
+    {
+      "word": "води́тель",
+      "ids": [
+        13
+      ]
+    },
+    {
+      "word": "такси́ст",
+      "ids": [
+        14
+      ]
+    },
+    {
+      "word": "полице́йский",
+      "ids": [
+        19
+      ]
+    },
+    {
+      "word": "почтальо́н",
+      "ids": [
+        20
+      ]
+    },
+    {
+      "word": "миллионе́р",
+      "ids": [
+        21
+      ]
+    },
+    {
+      "word": "молодо́й челове́к",
+      "ids": [
+        22
+      ]
+    },
+    {
+      "word": "прие́хать (отку́да? из + П2)",
+      "ids": [
+        116
+      ]
+    },
+    {
+      "word": "верну́ться (куда́? в + П4)",
+      "ids": [
+        117
+      ]
+    },
+    {
+      "word": "по́льзоваться (чем? П5)",
+      "ids": [
+        16
+      ]
+    },
+    {
+      "word": "е́хать / е́здить (на чём? на + П6)",
+      "ids": [
+        118
+      ]
+    },
+    {
+      "word": "пое́хать",
+      "ids": [
+        119
+      ]
+    },
+    {
+      "word": "идти́ / ходи́ть",
+      "ids": [
+        120
+      ]
+    },
+    {
+      "word": "пройти́ (че́рез что?)",
+      "ids": [
+        55
+      ]
+    },
+    {
+      "word": "перейти́ (что? / че́рез что?)",
+      "ids": [
+        56,
+        56
+      ]
+    },
+    {
+      "word": "дойти́ / дое́хать (до чего́? до + П2)",
+      "ids": [
+        53,
+        54,
+        54,
+        53
+      ]
+    },
+    {
+      "word": "добра́ться (до чего́? до + П2)",
+      "ids": [
+        52
+      ]
+    },
+    {
+      "word": "подойти́ (к кому́? к + П3)",
+      "ids": [
+        121
+      ]
+    },
+    {
+      "word": "поверну́ть (куда́?)",
+      "ids": [
+        57
+      ]
+    },
+    {
+      "word": "сесть (на что? на + П4)",
+      "ids": [
+        59
+      ]
+    },
+    {
+      "word": "вы́йти / выходи́ть",
+      "ids": [
+        122
+      ]
+    },
+    {
+      "word": "довезти́ (до чего́?)",
+      "ids": [
+        123
+      ]
+    },
+    {
+      "word": "потеря́ться",
+      "ids": [
+        67
+      ]
+    },
+    {
+      "word": "торопи́ться",
+      "ids": [
+        69
+      ]
+    },
+    {
+      "word": "спроси́ть (у кого́? у + П2)",
+      "ids": [
+        65
+      ]
+    },
+    {
+      "word": "обрати́ться (к кому́? к + П3)",
+      "ids": [
+        64
+      ]
+    },
+    {
+      "word": "подсказа́ть",
+      "ids": [
+        124
+      ]
+    },
+    {
+      "word": "знать то́чно",
+      "ids": [
+        68
+      ]
+    },
+    {
+      "word": "иска́ть",
+      "ids": [
+        66
+      ]
+    },
+    {
+      "word": "пригласи́ть (кого́? куда́?)",
+      "ids": [
+        125
+      ]
+    },
+    {
+      "word": "вы́брать",
+      "ids": [
+        126
+      ]
+    },
+    {
+      "word": "отпра́вить (письмо́)",
+      "ids": [
+        127
+      ]
+    },
+    {
+      "word": "поблагодари́ть",
+      "ids": [
+        128
+      ]
+    },
+    {
+      "word": "оконча́ть / око́нчить (университе́т)",
+      "ids": [
+        129
+      ]
+    },
+    {
+      "word": "большо́й / ма́ленький",
+      "ids": [
+        84,
+        91
+      ]
+    },
+    {
+      "word": "дре́вний / совреме́нный",
+      "ids": [
+        76,
+        90,
+        98
+      ]
+    },
+    {
+      "word": "стари́нный",
+      "ids": [
+        130
+      ]
+    },
+    {
+      "word": "родно́й (го́род)",
+      "ids": [
+        131
+      ]
+    },
+    {
+      "word": "промы́шленный",
+      "ids": [
+        77,
+        77
+      ]
+    },
+    {
+      "word": "городско́й",
+      "ids": [
+        132
+      ]
+    },
+    {
+      "word": "центра́льный",
+      "ids": [
+        133
+      ]
+    },
+    {
+      "word": "гла́вный",
+      "ids": [
+        134
+      ]
+    },
+    {
+      "word": "незнако́мый",
+      "ids": [
+        135
+      ]
+    },
+    {
+      "word": "далеко́ / бли́зко / недалеко́",
+      "ids": [
+        75,
+        83,
+        88,
+        95
+      ]
+    },
+    {
+      "word": "бы́стро / ме́дленно",
+      "ids": [
+        74,
+        85,
+        92
+      ]
+    },
+    {
+      "word": "удо́бно / неудо́бно",
+      "ids": [
+        71,
+        97,
+        99
+      ]
+    },
+    {
+      "word": "комфо́ртно",
+      "ids": [
+        72
+      ]
+    },
+    {
+      "word": "до́рого / недо́рого",
+      "ids": [
+        73,
+        89,
+        96
+      ]
+    },
+    {
+      "word": "дорого́й",
+      "ids": [
+        136
+      ]
+    },
+    {
+      "word": "прямо́й",
+      "ids": [
+        137
+      ]
+    },
+    {
+      "word": "вели́кий",
+      "ids": [
+        138
+      ]
+    },
+    {
+      "word": "популя́рный",
+      "ids": [
+        139
+      ]
+    },
+    {
+      "word": "приве́тливый",
+      "ids": [
+        140
+      ]
+    },
+    {
+      "word": "сро́чно",
+      "ids": [
+        70
+      ]
+    },
+    {
+      "word": "выходно́й",
+      "ids": [
+        141
+      ]
+    },
+    {
+      "word": "за́втрашний",
+      "ids": [
+        142
+      ]
+    },
+    {
+      "word": "пря́мо",
+      "ids": [
+        58,
+        58
+      ]
+    },
+    {
+      "word": "напра́во / нале́во",
+      "ids": [
+        57,
+        93,
+        94
+      ]
+    },
+    {
+      "word": "напро́тив (чего́? П2)",
+      "ids": [
+        61
+      ]
+    },
+    {
+      "word": "о́коло (чего́? П2)",
+      "ids": [
+        62
+      ]
+    },
+    {
+      "word": "ми́мо (чего́? П2)",
+      "ids": [
+        63
+      ]
+    },
+    {
+      "word": "на друго́й стороне́ у́лицы",
+      "ids": [
+        143
+      ]
+    },
+    {
+      "word": "на се́вере / ю́ге го́рода",
+      "ids": [
+        144
+      ]
+    },
+    {
+      "word": "вход / вы́ход",
+      "ids": [
+        86,
+        87
+      ]
+    },
+    {
+      "word": "Вот и́менно!",
+      "ids": [
+        81
+      ]
+    },
+    {
+      "word": "Как же…?",
+      "ids": [
+        82
+      ]
+    },
+    {
+      "word": "Э́то и есть…",
+      "ids": [
+        145
+      ]
+    },
+    {
+      "word": "Как я соску́чился (соску́чилась)!",
+      "ids": [
+        146
+      ]
+    },
+    {
+      "word": "Язы́к до Ки́ева доведёт",
+      "ids": [
+        147
+      ]
+    }
+  ],
+  "preservedRequirements": {
+    "template": "У врача — последняя опубликованная версия",
+    "files": [
+      {
+        "path": "index.html",
+        "sha256": "041b5f1ad5fd18f453d2d116a6ae26ef474793f8834edad4e9a86d4d02b30aef"
+      },
+      {
+        "path": "assets/styles.css",
+        "sha256": "6937fad13fda884fffb4ebb5588fedc4e944710294f54b652ec8a132c6a4ac8f"
+      },
+      {
+        "path": "assets/app.js",
+        "sha256": "3b7db4ccbee56e0f031da7f7819ac2cfa59aa6001dd56f2f885a64e2df00528e"
+      },
+      {
+        "path": "assets/lesson-data.js",
+        "sha256": "c453c48232c89132f00bf040ece734006a8cdf43e4cecefc32c9675a91112e75"
+      }
+    ],
+    "source_project": "/Users/Svetlana/Documents/Codex/2026-10-05/referenced-chatgpt-conversation-this-is-an/outputs/u-vracha-site",
+    "requirements_file": "/Users/Svetlana/Documents/Codex/2026-10-05/referenced-chatgpt-conversation-this-is-an/work/city/Передача_задачи.txt",
+    "preserve": [
+      "Оформление, читаемые крупные слова и заголовки, компактная демонстрация",
+      "Режимы: знакомство, исходные карточки, картинка → слово, слово → значение",
+      "Тематические группы, активное ядро и расширение с опорой",
+      "Ответ скрывается при переходе к следующей карточке; управление преподавателем",
+      "Грамматические схемы, интеллект-карты, примеры и цветовые выделения",
+      "Все исходные карточки и пиктограммы без изменений",
+      "Дополнительные содержательные иллюстрации без повторов",
+      "Полная автономность: никаких внешних картинок, шрифтов и обязательных сетевых запросов",
+      "Последняя версия для GitHub, отдельный HTML и офлайн-архив, картинки, языковая карта",
+      "Отдельная папка «В городе» на рабочем столе"
+    ],
+    "adapt_to_city": [
+      "Содержание, лексика, примеры, иллюстрации, грамматические связи и подписи",
+      "Число и состав тематических разделов по материалам города",
+      "Пять маршрутов по аналогии с языковой картой; не копировать медицинское содержание"
+    ]
+  }
+}
