@@ -12,11 +12,12 @@ function render(){if(state.area==='grammar'){renderGrammar();return;}el('nav').h
 if(state.mode==='learn')content=`<section class="learn"><aside class="scene"><img decoding="async" src="${t.scene}" alt="${esc(t.question)}"><div class="models"><h2>${esc(t.question)}</h2>${t.models.map(x=>`<p>${rich(x)}</p>`).join('')}</div></aside><div><div class="grid">${ls.map(x=>`<article class="tile ${x.word.length>24?'long':''}">${x.origin==='source-text'?'':`<img decoding="async" src="${x.icon}" alt="Пиктограмма: ${esc(x.word)}">`}<div class="word">${esc(x.word)}</div>${x.origin==='source-text'?`<p class="new-meaning">${esc(x.meaning)}</p><p class="chinese">${esc(x.chinese)}</p>`:''}<p class="ex">${rich(x.example)}</p></article>`).join('')}</div></div></section>`;
 else if(state.mode==='cards')content=ls.length?`<div class="cardgrid">${ls.map(x=>`<div class="sourcecard"><img loading="lazy" decoding="async" src="${x.card}" alt="Исходная карточка: ${esc(x.word)}"></div>`).join('')}</div>`:'<div class="empty">Для этих слов исходных карточек нет. Выберите «Знакомство» или «Слово → значение».</div>';
 else if(ls.length){const x=ls[state.index],picture=state.mode==='picture';content=`<div class="deck"><p class="task">${esc(picture?t.picq:t.wordq)}</p>${picture?`<img class="pic" src="${x.icon}" alt="Пиктограмма для называния">`:`<div class="bigword">${esc(x.word)}</div>`}${state.revealed?(picture?`<div class="bigword">${esc(x.word)}</div>`:`<p class="meaning">${esc(x.meaning)}</p><p class="chinese">${esc(x.chinese)}</p>`)+`<p class="example">${rich(x.example)}</p>`:''}</div><div class="deck-controls"><button class="arrow" id="prev" aria-label="Предыдущая карточка">←</button><span class="counter">${state.index+1} / ${ls.length}</span><button id="reveal">${state.revealed?'Скрыть ответ':'Показать ответ'}</button><button class="arrow" id="next" aria-label="Следующая карточка">→</button></div><p class="deck-note">Управление преподавателя: ← → — смена карточки; пробел — раскрытие ответа.</p>`;}else content='<div class="empty">В этой группе нет слов активного ядра. Выберите «А + Б».</div>';
+requestWordFit();
 el('main').innerHTML=`<div class="head"><div><div class="code">2.${state.topic+1} · ЛЕКСИКА ПО ТЕМАМ</div><h1>${esc(t.title)}</h1><p>${esc(t.question)}</p></div></div><div class="modes">${[['learn','Знакомство'],['cards','Исходные карточки'],['picture','Картинка → слово'],['meaning','Слово → значение']].map(([m,label])=>`<button data-mode="${m}" class="${state.mode===m?'active':''}">${label}</button>`).join('')}</div><div class="groups">${t.groups.map((g,i)=>`<button data-group="${i}" class="${state.group===i?'active':''}">${esc(g.label)}</button>`).join('')}<button data-group="-1" class="${state.group===-1?'active':''}">Вся тема</button><button id="core">${state.core?'А · активное ядро':'А + Б · все слова'}</button></div>${content}<div class="status"><span>${ls.length} слов и моделей в выбранной группе</span><span>А — активное ядро · Б — расширение с опорой</span></div>`;
 el('main').querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>{state.mode=b.dataset.mode;state.index=0;state.revealed=false;render();});el('main').querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{state.group=+b.dataset.group;state.index=0;state.revealed=false;render();});el('core').onclick=()=>{state.core=!state.core;state.index=0;state.revealed=false;render();};if(el('reveal')){el('reveal').onclick=()=>{state.revealed=!state.revealed;render();};el('prev').onclick=()=>step(-1);el('next').onclick=()=>step(1);}}
 function step(n){const ls=list();state.index=(state.index+n+ls.length)%ls.length;state.revealed=false;render();}
-el('mapBtn').onclick=()=>{state.area='lexicon';state.topic=null;render();window.scrollTo(0,0);};el('presentBtn').onclick=()=>document.body.classList.toggle('projector');el('exit').onclick=()=>document.body.classList.remove('projector');
-window.addEventListener('keydown',e=>{if(e.key==='Escape'){document.body.classList.remove('projector');return;}if(state.area==='grammar'||state.topic===null||!['picture','meaning'].includes(state.mode))return;if(e.key==='ArrowRight'){e.preventDefault();step(1);}if(e.key==='ArrowLeft'){e.preventDefault();step(-1);}if(e.code==='Space'){e.preventDefault();state.revealed=!state.revealed;render();}});
+el('mapBtn').onclick=()=>{state.area='lexicon';state.topic=null;render();window.scrollTo(0,0);};el('presentBtn').onclick=()=>{document.body.classList.toggle('projector');requestWordFit();};el('exit').onclick=()=>{document.body.classList.remove('projector');requestWordFit();};
+window.addEventListener('keydown',e=>{if(e.key==='Escape'){document.body.classList.remove('projector');requestWordFit();return;}if(state.area==='grammar'||state.topic===null||!['picture','meaning'].includes(state.mode))return;if(e.key==='ArrowRight'){e.preventDefault();step(1);}if(e.key==='ArrowLeft'){e.preventDefault();step(-1);}if(e.code==='Space'){e.preventDefault();state.revealed=!state.revealed;render();}});
 
 const SCHEMES=DATA.grammar;
 const SCHEME_COLORS=['#218578','#337bb0','#805bb4','#c6614d','#b17a18','#556ba0'];
@@ -88,3 +89,36 @@ el('grammarBtn').onclick=()=>{state.area='grammar';state.grammar=null;render();w
 render();
 
 function drawOverviewLinks(){const map=document.querySelector('.map-wrap'),svg=map?.querySelector('.map-links');if(!svg||getComputedStyle(svg).display==='none')return;const box=map.getBoundingClientRect(),r=map.querySelector('.map-core').getBoundingClientRect(),cx=r.left-box.left+r.width/2,cy=r.top-box.top+r.height/2;svg.setAttribute('viewBox',`0 0 ${box.width} ${box.height}`);svg.innerHTML=Array.from(map.querySelectorAll('.branch')).map((b,i)=>{const q=b.getBoundingClientRect(),x=q.left-box.left+q.width/2,y=q.top-box.top+q.height/2;return `<path d="M${cx} ${cy} L${x} ${y}" stroke="${TOPICS[i].color}" stroke-opacity=".4" stroke-width="3" fill="none"/>`;}).join('');}window.addEventListener('resize',drawOverviewLinks);
+
+function requestWordFit(){requestAnimationFrame(fitVocabularyWords);}
+function fitVocabularyWords(){
+ const context=document.createElement('canvas').getContext('2d');
+ if(!context)return;
+ document.querySelectorAll('.tile .word,.deck .bigword,.tile .ex,.deck .example').forEach(word=>{
+  word.style.fontSize='';
+  const style=getComputedStyle(word),size=parseFloat(style.fontSize),available=word.clientWidth-2;
+  if(available<=0)return;
+  const walker=document.createTreeWalker(word,NodeFilter.SHOW_TEXT);
+  const fonts=new Set();
+  let node,longest=0;
+  while((node=walker.nextNode())){
+   const textStyle=getComputedStyle(node.parentElement);
+   fonts.add(`${textStyle.fontWeight} ${textStyle.fontSize} ${textStyle.fontFamily}`);
+  }
+  // Include adjacent punctuation even when a highlighted word is in a separate span.
+  for(const font of fonts){
+   context.font=font;
+   for(const token of word.textContent.trim().split(/\s+/))longest=Math.max(longest,context.measureText(token).width);
+  }
+  if(longest>available)word.style.fontSize=`${Math.floor(size*available/longest*100)/100}px`;
+ });
+}
+window.addEventListener('resize',requestWordFit);
+if(document.fonts)document.fonts.ready.then(requestWordFit);
+if(window.ResizeObserver){
+ let previousWidth=-1;
+ new ResizeObserver(entries=>{
+  const width=entries[0].contentRect.width;
+  if(width!==previousWidth){previousWidth=width;requestWordFit();}
+ }).observe(el('main'));
+}

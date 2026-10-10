@@ -19,3 +19,7 @@
 .new-meaning{font-size:21px;line-height:1.4;color:var(--muted)}.tile .chinese{font-size:21px}.draft-notice{padding:14px 32px;margin:0;color:#85672f;font-size:18px}
 /* City: eight branches, compact teacher groups, same type scale and modes. */
 .map{grid-template-columns:repeat(4,minmax(0,1fr));row-gap:108px}.map-core{font-size:28px}.branch h2{font-size:24px}.branch img{object-fit:cover}.scene img{object-fit:contain;background:#edf2ef}.tile img{object-fit:contain}.groups button{max-width:320px}.nav{flex-wrap:wrap}.mindmap{row-gap:30px}.mindmap:has(.mind-branch:nth-child(7)){display:flex;flex-direction:column}.projector .top{display:none}.projector .nav{display:none}.projector .head{padding-top:14px}.deck .task{font-size:23px}.projector .deck .task{display:none}@media(max-width:1100px){.map{grid-template-columns:repeat(4,minmax(0,1fr))}.branch h2{font-size:21px}.branch p{font-size:17px}}@media(max-width:760px){.map{grid-template-columns:1fr 1fr;row-gap:18px}.toolbar{flex-wrap:wrap!important}.nav button{font-size:17px}.branch img{height:135px}.branch h2{font-size:20px}.groups button{max-width:none}.mindmap{display:flex}.projector .head h1{font-size:30px}}
+
+/* Keep vocabulary words intact and let the script fit long words to the card. */
+.tile .word,.deck .bigword,.tile .ex,.deck .example{width:100%;max-width:100%;min-width:0;overflow-wrap:normal;word-break:normal;hyphens:none}
+@media(max-width:480px){.grid{grid-template-columns:1fr}}
